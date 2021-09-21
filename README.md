@@ -2,11 +2,6 @@
 
 eos-ecc methods
 
-## Installation
-
-```sh
-npm install react-native-eos-ecc
-```
 
 ## Usage
 
